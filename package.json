@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+
+    "express": "latest",
+
+    "request": "latest",
+    "tough-cookie" : "latest",
+    "cheerio": "latest",
+    "json2csv": "latest",
+    "ejs": "latest",
+    "ngResource": "latest",
+    "tough-cookie": "^0.12.1"
+  }
+}
